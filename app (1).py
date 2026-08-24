@@ -1,4 +1,3 @@
-
 import math
 import subprocess
 from datetime import date, timedelta
